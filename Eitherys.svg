@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560">
+	
+	<image x="-17" y="0" width="1000" height="560" href="https://abload.de/img/ccx0r0aywsfb10diob.png" />
+
+	<!-- Limsa Lominsa -->
+	<circle cx="290" cy="330" r="4.5" style="stroke:none; fill:black"/>
+	<circle cx="290" cy="330" r="4" style="stroke:none; fill:red"/>
+	<circle cx="290" cy="330" r="2.5" style="stroke:none; fill:white"/>
+	<circle cx="290" cy="330" r="6.5" style="stroke:none; fill:transparent"><title>Limsa Lominsa - Lower Decks</title></circle>
+
+	<!-- Middle La Noscea -->
+	<circle cx="305" cy="325" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="305" cy="325" r="2" style="stroke:none; fill:blue"/>
+	<circle cx="305" cy="325" r="1" style="stroke:none; fill:white"/>
+	<circle cx="305" cy="325" r="4.5" style="stroke:none; fill:transparent"><title>Middle La Noscea - Summerford Farms</title></circle>
+
+	<!-- Lower La Noscea -->
+	<circle cx="315" cy="335" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="315" cy="335" r="2" style="stroke:none; fill:blue"/>
+	<circle cx="315" cy="335" r="1" style="stroke:none; fill:white"/>
+	<circle cx="315" cy="335" r="4.5" style="stroke:none; fill:transparent"><title>Lower La Noscea - Moraby Drydocks</title></circle>
+
+	<!-- Eastern La Noscea -->
+	<circle cx="318" cy="326" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="318" cy="326" r="2" style="stroke:none; fill:blue"/>
+	<circle cx="318" cy="326" r="1" style="stroke:none; fill:white"/>
+	<circle cx="318" cy="326" r="4.5" style="stroke:none; fill:transparent"><title>Eastern La Noscea - Costa del Sol</title></circle>
+
+	<!-- Eastern La Noscea -->
+	<circle cx="312" cy="320" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="312" cy="320" r="2" style="stroke:none; fill:blue"/>
+	<circle cx="312" cy="320" r="1" style="stroke:none; fill:white"/>
+	<circle cx="312" cy="320" r="4.5" style="stroke:none; fill:transparent"><title>Eastern La Noscea - Wineport</title></circle>
+
+	<!-- Western La Noscea -->
+	<circle cx="290" cy="320" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="290" cy="320" r="2" style="stroke:none; fill:blue"/>
+	<circle cx="290" cy="320" r="1" style="stroke:none; fill:white"/>
+	<circle cx="290" cy="320" r="4.5" style="stroke:none; fill:transparent"><title>Western La Noscea - Swiftperch</title></circle>
+
+	<!-- Western La Noscea -->
+	<circle cx="285" cy="315" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="285" cy="315" r="2" style="stroke:none; fill:blue"/>
+	<circle cx="285" cy="315" r="1" style="stroke:none; fill:white"/>
+	<circle cx="285" cy="315" r="4.5" style="stroke:none; fill:transparent"><title>Western La Noscea - Aleport</title></circle>
+
+	<!-- Upper La Noscea -->
+	<circle cx="310" cy="313" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="310" cy="313" r="2" style="stroke:none; fill:blue"/>
+	<circle cx="310" cy="313" r="1" style="stroke:none; fill:white"/>
+	<circle cx="310" cy="313" r="4.5" style="stroke:none; fill:transparent"><title>Upper La Noscea - Camp Bronze Lake</title></circle>
+
+	<!-- Outer La Noscea -->
+	<circle cx="305" cy="305" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="305" cy="305" r="2" style="stroke:none; fill:blue"/>
+	<circle cx="305" cy="305" r="1" style="stroke:none; fill:white"/>
+	<circle cx="305" cy="305" r="4.5" style="stroke:none; fill:transparent"><title>Outer La Noscea - Camp Overlook</title></circle>
+
+	<!-- Wolves Den Pier -->
+	<circle cx="285" cy="340" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="285" cy="340" r="2" style="stroke:none; fill:blue"/>
+	<circle cx="285" cy="340" r="1" style="stroke:none; fill:white"/>
+	<circle cx="285" cy="340" r="4.5" style="stroke:none; fill:transparent"><title>Wolves Den Pier</title></circle>
+	
+	
+	<!-- Gridania -->
+	<circle cx="410" cy="280" r="4.5" style="stroke:none; fill:black"/>
+	<circle cx="410" cy="280" r="4" style="stroke:none; fill:yellow"/>
+	<circle cx="410" cy="280" r="2.5" style="stroke:none; fill:white"/>
+	<circle cx="410" cy="280" r="6.5" style="stroke:none; fill:transparent"><title>New Gridania</title></circle>
+
+	<!-- Central Shroud -->
+	<circle cx="400" cy="290" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="400" cy="290" r="2" style="stroke:none; fill:blue"/>
+	<circle cx="400" cy="290" r="1" style="stroke:none; fill:white"/>
+	<circle cx="400" cy="290" r="4.5" style="stroke:none; fill:transparent"><title>Central Shroud - Bentbranch Meadows</title></circle>
+
+	<!-- East Shroud -->
+	<circle cx="420" cy="275" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="420" cy="275" r="2" style="stroke:none; fill:blue"/>
+	<circle cx="420" cy="275" r="1" style="stroke:none; fill:white"/>
+	<circle cx="420" cy="275" r="4.5" style="stroke:none; fill:transparent"><title>East Shroud - Hawthorne's Hut</title></circle>
+
+	<!-- South Shroud -->
+	<circle cx="395" cy="300" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="395" cy="300" r="2" style="stroke:none; fill:blue"/>
+	<circle cx="395" cy="300" r="1" style="stroke:none; fill:white"/>
+	<circle cx="395" cy="300" r="4.5" style="stroke:none; fill:transparent"><title>South Shroud - Quarrymill</title></circle>
+
+	<!-- South Shroud -->
+	<circle cx="390" cy="310" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="390" cy="310" r="2" style="stroke:none; fill:blue"/>
+	<circle cx="390" cy="310" r="1" style="stroke:none; fill:white"/>
+	<circle cx="390" cy="310" r="4.5" style="stroke:none; fill:transparent"><title>South Shroud - Camp Tranquil</title></circle>
+
+	<!-- North Shroud -->
+	<circle cx="390" cy="280" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="390" cy="280" r="2" style="stroke:none; fill:blue"/>
+	<circle cx="390" cy="280" r="1" style="stroke:none; fill:white"/>
+	<circle cx="390" cy="280" r="4.5" style="stroke:none; fill:transparent"><title>North Shroud - Fallgourd Float</title></circle>
+
+	
+	
+	
+	<!-- Ul'dah -->
+	<circle cx="374" cy="350" r="4.5" style="stroke:none; fill:black"/>
+	<circle cx="374" cy="350" r="4" style="stroke:none; fill:navy"/>
+	<circle cx="374" cy="350" r="2.5" style="stroke:none; fill:white"/>
+	<circle cx="374" cy="350" r="6.5" style="stroke:none; fill:transparent"><title>Ul'dah - Steps of Nald</title></circle>
+
+	<!-- Western Thanalan -->
+	<circle cx="360" cy="345" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="360" cy="345" r="2" style="stroke:none; fill:blue"/>
+	<circle cx="360" cy="345" r="1" style="stroke:none; fill:white"/>
+	<circle cx="360" cy="345" r="4.5" style="stroke:none; fill:transparent"><title>Western Thanalan - Horizon</title></circle>
+
+	<!-- Central Thanalan -->
+	<circle cx="375" cy="340" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="375" cy="340" r="2" style="stroke:none; fill:blue"/>
+	<circle cx="375" cy="340" r="1" style="stroke:none; fill:white"/>
+	<circle cx="375" cy="340" r="4.5" style="stroke:none; fill:transparent"><title>Central Thanalan - Black Brush Station</title></circle>
+
+	<!-- Eastern Thanalan -->
+	<circle cx="385" cy="330" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="385" cy="330" r="2" style="stroke:none; fill:blue"/>
+	<circle cx="385" cy="330" r="1" style="stroke:none; fill:white"/>
+	<circle cx="385" cy="330" r="4.5" style="stroke:none; fill:transparent"><title>Eastern Thanalan - Camp Drybone</title></circle>
+
+	<!-- Southern Thanalan -->
+	<circle cx="385" cy="355" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="385" cy="355" r="2" style="stroke:none; fill:blue"/>
+	<circle cx="385" cy="355" r="1" style="stroke:none; fill:white"/>
+	<circle cx="385" cy="355" r="4.5" style="stroke:none; fill:transparent"><title>Southern Thanalan - Little Ala Mhigo</title></circle>
+
+	<!-- Southern Thanalan -->
+	<circle cx="380" cy="365" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="380" cy="365" r="2" style="stroke:none; fill:blue"/>
+	<circle cx="380" cy="365" r="1" style="stroke:none; fill:white"/>
+	<circle cx="380" cy="365" r="4.5" style="stroke:none; fill:transparent"><title>Southern Thanalan - Little Ala Mhigo</title></circle>
+
+	<!-- Northern Thanalan -->
+	<circle cx="365" cy="335" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="365" cy="335" r="2" style="stroke:none; fill:blue"/>
+	<circle cx="365" cy="335" r="1" style="stroke:none; fill:white"/>
+	<circle cx="365" cy="335" r="4.5" style="stroke:none; fill:transparent"><title>Northern Thanalan - Camp Bluefog</title></circle>
+
+	<!-- Northern Thanalan -->
+	<circle cx="360" cy="326" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="360" cy="326" r="2" style="stroke:none; fill:blue"/>
+	<circle cx="360" cy="326" r="1" style="stroke:none; fill:white"/>
+	<circle cx="360" cy="326" r="4.5" style="stroke:none; fill:transparent"><title>Northern Thanalan - Ceruleum Processing Plant</title></circle>
+
+	<!-- The Manderville Gold Saucer -->
+	<circle cx="375" cy="375" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="375" cy="375" r="2" style="stroke:none; fill:gold"/>
+	<circle cx="375" cy="375" r="1" style="stroke:none; fill:white"/>
+	<circle cx="375" cy="375" r="4.5" style="stroke:none; fill:transparent"><title>The Manderville Gold Saucer</title></circle>
+
+
+	<!-- Mor Dhona -->
+	<circle cx="365" cy="300" r="4.5" style="stroke:none; fill:black"/>
+	<circle cx="365" cy="300" r="4" style="stroke:none; fill:blue"/>
+	<circle cx="365" cy="300" r="2.5" style="stroke:none; fill:white"/>
+	<circle cx="365" cy="300" r="6.5" style="stroke:none; fill:transparent"><title>Ishgard - Foundation</title></circle>
+
+
+	<!-- Ishgard -->
+	<circle cx="360" cy="260" r="4.5" style="stroke:none; fill:black"/>
+	<circle cx="360" cy="260" r="4" style="stroke:none; fill:skyblue"/>
+	<circle cx="360" cy="260" r="2.5" style="stroke:none; fill:white"/>
+	<circle cx="360" cy="260" r="6.5" style="stroke:none; fill:transparent"><title>Mor Dhona - Revenant's Toll</title></circle>
+
+	<!-- Coerthas -->
+	<circle cx="370" cy="275" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="370" cy="275" r="2" style="stroke:none; fill:blue"/>
+	<circle cx="370" cy="275" r="1" style="stroke:none; fill:white"/>
+	<circle cx="370" cy="275" r="4.5" style="stroke:none; fill:transparent"><title>Central Coerthas Highlands - Camp Dragonhead</title></circle>
+
+	<!-- Coerthas -->
+	<circle cx="340" cy="270" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="340" cy="270" r="2" style="stroke:none; fill:skyblue"/>
+	<circle cx="340" cy="270" r="1" style="stroke:none; fill:white"/>
+	<circle cx="340" cy="270" r="4.5" style="stroke:none; fill:transparent"><title>Western Coerthas Highlands - Falcon's Nest</title></circle>
+
+	<!-- Abalathia's Spine -->
+	<circle cx="365" cy="200" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="365" cy="200" r="2" style="stroke:none; fill:skyblue"/>
+	<circle cx="365" cy="200" r="1" style="stroke:none; fill:white"/>
+	<circle cx="365" cy="200" r="4.5" style="stroke:none; fill:transparent"><title>The Sea of Clouds - Camp Cloudtop</title></circle>
+
+	<!-- Abalathia's Spine -->
+	<circle cx="360" cy="195" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="360" cy="195" r="2" style="stroke:none; fill:skyblue"/>
+	<circle cx="360" cy="195" r="1" style="stroke:none; fill:white"/>
+	<circle cx="360" cy="195" r="4.5" style="stroke:none; fill:transparent"><title>The Sea of Clouds - Ok' Zundu</title></circle>
+
+	<!-- Azys Lla -->
+	<circle cx="375" cy="185" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="375" cy="185" r="2" style="stroke:none; fill:skyblue"/>
+	<circle cx="375" cy="185" r="1" style="stroke:none; fill:white"/>
+	<circle cx="375" cy="185" r="4.5" style="stroke:none; fill:transparent"><title>Azys Lla - Helix</title></circle>
+
+	<!-- Dravania -->
+	<circle cx="335" cy="255" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="335" cy="255" r="2" style="stroke:none; fill:skyblue"/>
+	<circle cx="335" cy="255" r="1" style="stroke:none; fill:white"/>
+	<circle cx="335" cy="255" r="4.5" style="stroke:none; fill:transparent"><title>Dravanian Forelands - Tailfeather</title></circle>
+
+	<!-- Dravania -->
+	<circle cx="325" cy="250" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="325" cy="250" r="2" style="stroke:none; fill:skyblue"/>
+	<circle cx="325" cy="250" r="1" style="stroke:none; fill:white"/>
+	<circle cx="325" cy="250" r="4.5" style="stroke:none; fill:transparent"><title>Dravanian Forelands - Anyx Trine</title></circle>
+
+	<!-- The Churning Mists -->
+	<circle cx="325" cy="230" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="325" cy="230" r="2" style="stroke:none; fill:skyblue"/>
+	<circle cx="325" cy="230" r="1" style="stroke:none; fill:white"/>
+	<circle cx="325" cy="230" r="4.5" style="stroke:none; fill:transparent"><title>The Churning Mists - Moghome</title></circle>
+
+	<!-- The Churning Mists -->
+	<circle cx="315" cy="228" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="315" cy="228" r="2" style="stroke:none; fill:skyblue"/>
+	<circle cx="315" cy="228" r="1" style="stroke:none; fill:white"/>
+	<circle cx="315" cy="228" r="4.5" style="stroke:none; fill:transparent"><title>The Churning Mists - Zenith</title></circle>
+
+
+	<!-- Idyllshire -->
+	<circle cx="290" cy="250" r="4.5" style="stroke:none; fill:black"/>
+	<circle cx="290" cy="250" r="3.5" style="stroke:none; fill:teal"/>
+	<circle cx="290" cy="250" r="2.5" style="stroke:none; fill:white"/>
+	<circle cx="290" cy="250" r="6.5" style="stroke:none; fill:transparent"><title>Idyllshire</title></circle>
+
+
+
+	<!-- Rhalgr's Reach -->
+	<circle cx="435" cy="255" r="4.5" style="stroke:none; fill:black"/>
+	<circle cx="435" cy="255" r="3.5" style="stroke:none; fill:purple"/>
+	<circle cx="435" cy="255" r="2.5" style="stroke:none; fill:white"/>
+	<circle cx="435" cy="255" r="6.5" style="stroke:none; fill:transparent"><title>Rhalgr's Reach</title></circle>
+
+	<!-- The Fringes -->
+	<circle cx="430" cy="270" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="430" cy="270" r="2" style="stroke:none; fill:red"/>
+	<circle cx="430" cy="270" r="1" style="stroke:none; fill:white"/>
+	<circle cx="430" cy="270" r="4.5" style="stroke:none; fill:transparent"><title>The Fringes - Castrum Oriens</title></circle>
+
+	<!-- The Fringes -->
+	<circle cx="435" cy="275" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="435" cy="275" r="2" style="stroke:none; fill:red"/>
+	<circle cx="435" cy="275" r="1" style="stroke:none; fill:white"/>
+	<circle cx="435" cy="275" r="4.5" style="stroke:none; fill:transparent"><title>The Fringes - The Peering Stones</title></circle>
+
+	<!-- The Peaks -->
+	<circle cx="442" cy="275" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="442" cy="275" r="2" style="stroke:none; fill:red"/>
+	<circle cx="442" cy="275" r="1" style="stroke:none; fill:white"/>
+	<circle cx="442" cy="275" r="4.5" style="stroke:none; fill:transparent"><title>The Peaks - Ala Gannha</title></circle>
+
+	<!-- The Peaks -->
+	<circle cx="442" cy="285" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="442" cy="285" r="2" style="stroke:none; fill:red"/>
+	<circle cx="442" cy="285" r="1" style="stroke:none; fill:white"/>
+	<circle cx="442" cy="285" r="4.5" style="stroke:none; fill:transparent"><title>The Peaks - Ala Ghiri</title></circle>
+
+	<!-- The Lochs -->
+	<circle cx="450" cy="280" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="450" cy="280" r="2" style="stroke:none; fill:red"/>
+	<circle cx="450" cy="280" r="1" style="stroke:none; fill:white"/>
+	<circle cx="450" cy="280" r="4.5" style="stroke:none; fill:transparent"><title>The Lochs - Porta Praetoria</title></circle>
+
+	<!-- The Lochs -->
+	<circle cx="460" cy="285" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="460" cy="285" r="2" style="stroke:none; fill:red"/>
+	<circle cx="460" cy="285" r="1" style="stroke:none; fill:white"/>
+	<circle cx="460" cy="285" r="4.5" style="stroke:none; fill:transparent"><title>The Lochs - The Ala Mhigan Quarter</title></circle>
+
+
+	<!-- Kugane -->
+	<circle cx="940" cy="250" r="4.5" style="stroke:none; fill:black"/>
+	<circle cx="940" cy="250" r="4" style="stroke:none; fill:silver"/>
+	<circle cx="940" cy="250" r="2.5" style="stroke:none; fill:white"/>
+	<circle cx="940" cy="250" r="6.5" style="stroke:none; fill:transparent"><title>Kugane</title></circle>
+
+	<!-- The Ruby Sea -->
+	<circle cx="920" cy="245" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="920" cy="245" r="2" style="stroke:none; fill:red"/>
+	<circle cx="920" cy="245" r="1" style="stroke:none; fill:white"/>
+	<circle cx="920" cy="245" r="4.5" style="stroke:none; fill:transparent"><title>The Ruby Sea - Onokoro</title></circle>
+
+	<!-- The Ruby Sea -->
+	<circle cx="925" cy="250" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="925" cy="250" r="2" style="stroke:none; fill:red"/>
+	<circle cx="925" cy="250" r="1" style="stroke:none; fill:white"/>
+	<circle cx="925" cy="250" r="4.5" style="stroke:none; fill:transparent"><title>The Ruby Sea - Tamamizu</title></circle>
+
+	<!-- Yanxia -->
+	<circle cx="895" cy="245" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="895" cy="245" r="2" style="stroke:none; fill:red"/>
+	<circle cx="895" cy="245" r="1" style="stroke:none; fill:white"/>
+	<circle cx="895" cy="245" r="4.5" style="stroke:none; fill:transparent"><title>Yanxia - Namai</title></circle>
+
+	<!-- Yanxia -->
+	<circle cx="880" cy="240" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="880" cy="240" r="2" style="stroke:none; fill:red"/>
+	<circle cx="880" cy="240" r="1" style="stroke:none; fill:white"/>
+	<circle cx="880" cy="240" r="4.5" style="stroke:none; fill:transparent"><title>Yanxia - The House of the Fierce</title></circle>
+
+	<!-- The Azim Steppe -->
+	<circle cx="870" cy="210" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="870" cy="210" r="2" style="stroke:none; fill:red"/>
+	<circle cx="870" cy="210" r="1" style="stroke:none; fill:white"/>
+	<circle cx="870" cy="210" r="4.5" style="stroke:none; fill:transparent"><title>The Azim Steppe - Reunion</title></circle>
+
+	<!-- The Azim Steppe -->
+	<circle cx="855" cy="200" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="855" cy="200" r="2" style="stroke:none; fill:red"/>
+	<circle cx="855" cy="200" r="1" style="stroke:none; fill:white"/>
+	<circle cx="855" cy="200" r="4.5" style="stroke:none; fill:transparent"><title>The Azim Steppe - The Dawn Throne</title></circle>
+
+	<!-- The Azim Steppe -->
+	<circle cx="840" cy="200" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="840" cy="200" r="2" style="stroke:none; fill:red"/>
+	<circle cx="840" cy="200" r="1" style="stroke:none; fill:white"/>
+	<circle cx="840" cy="200" r="4.5" style="stroke:none; fill:transparent"><title>The Azim Steppe - Dhoro Iloh</title></circle>
+
+	<!-- The Doman Enclave -->
+	<circle cx="885" cy="260" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="885" cy="260" r="2" style="stroke:none; fill:olive"/>
+	<circle cx="885" cy="260" r="1" style="stroke:none; fill:white"/>
+	<circle cx="885" cy="260" r="4.5" style="stroke:none; fill:transparent"><title>The Doman Enclave</title></circle>
+
+
+	<!-- Old Sharlayan -->
+	<circle cx="255" cy="165" r="4.5" style="stroke:none; fill:black"/>
+	<circle cx="255" cy="165" r="3.5" style="stroke:none; fill:teal"/>
+	<circle cx="255" cy="165" r="2.5" style="stroke:none; fill:white"/>
+	<circle cx="255" cy="165" r="6.5" style="stroke:none; fill:transparent"><title>Old Sharlayan</title></circle>
+
+	<!-- Labyrinthos -->
+	<circle cx="250" cy="155" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="250" cy="155" r="2" style="stroke:none; fill:silver"/>
+	<circle cx="250" cy="155" r="1" style="stroke:none; fill:white"/>
+	<circle cx="250" cy="155" r="4.5" style="stroke:none; fill:transparent"><title>Labyrinthos - The Archeion</title></circle>
+
+	<!-- Labyrinthos -->
+	<circle cx="246" cy="160" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="246" cy="160" r="2" style="stroke:none; fill:silver"/>
+	<circle cx="246" cy="160" r="1" style="stroke:none; fill:white"/>
+	<circle cx="246" cy="160" r="4.5" style="stroke:none; fill:transparent"><title>Labyrinthos - Sharlayan Hamlet</title></circle>
+
+	<!-- Labyrinthos -->
+	<circle cx="242" cy="165" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="242" cy="165" r="2" style="stroke:none; fill:silver"/>
+	<circle cx="242" cy="165" r="1" style="stroke:none; fill:white"/>
+	<circle cx="242" cy="165" r="4.5" style="stroke:none; fill:transparent"><title>Labyrinthos - Aporia</title></circle>
+
+
+	<!-- Radz-at-Han -->
+	<circle cx="670" cy="300" r="4.5" style="stroke:none; fill:skyblue"/>
+	<circle cx="670" cy="300" r="3.5" style="stroke:none; fill:red"/>
+	<circle cx="670" cy="300" r="2.5" style="stroke:none; fill:white"/>
+	<circle cx="670" cy="300" r="6.5" style="stroke:none; fill:transparent"><title>Radz-at-Han</title></circle>
+
+	<!-- Thavnair -->
+	<circle cx="666" cy="330" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="666" cy="330" r="2" style="stroke:none; fill:silver"/>
+	<circle cx="666" cy="330" r="1" style="stroke:none; fill:white"/>
+	<circle cx="666" cy="330" r="4.5" style="stroke:none; fill:transparent"><title>Thavnair - Yedlihmad</title></circle>
+
+	<!-- Thavnair -->
+	<circle cx="650" cy="320" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="650" cy="320" r="2" style="stroke:none; fill:silver"/>
+	<circle cx="650" cy="320" r="1" style="stroke:none; fill:white"/>
+	<circle cx="650" cy="320" r="4.5" style="stroke:none; fill:transparent"><title>Thavnair - The Great Work</title></circle>
+
+	<!-- Thavnair -->
+	<circle cx="668" cy="315" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="668" cy="315" r="2" style="stroke:none; fill:silver"/>
+	<circle cx="668" cy="315" r="1" style="stroke:none; fill:white"/>
+	<circle cx="668" cy="315" r="4.5" style="stroke:none; fill:transparent"><title>Thavnair - Palaka's Stand</title></circle>
+
+	<!-- Garlemald -->
+	<circle cx="530" cy="160" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="530" cy="160" r="2" style="stroke:none; fill:silver"/>
+	<circle cx="530" cy="160" r="1" style="stroke:none; fill:white"/>
+	<circle cx="530" cy="160" r="4.5" style="stroke:none; fill:transparent"><title>Garlemald - Camp Broken Glass</title></circle>
+
+	<!-- Garlemald -->
+	<circle cx="540" cy="150" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="540" cy="150" r="2" style="stroke:none; fill:silver"/>
+	<circle cx="540" cy="150" r="1" style="stroke:none; fill:white"/>
+	<circle cx="540" cy="150" r="4.5" style="stroke:none; fill:transparent"><title>Garlemald - Tertium</title></circle>
+
+
+	<!-- Mare Lamentorum -->
+	<circle cx="530" cy="20" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="530" cy="20" r="2" style="stroke:none; fill:silver"/>
+	<circle cx="530" cy="20" r="1" style="stroke:none; fill:white"/>
+	<circle cx="530" cy="20" r="4.5" style="stroke:none; fill:transparent"><title>Mare Lamentorum - Sinus Lacrimarum</title></circle>
+
+	<!-- Mare Lamentorum -->
+	<circle cx="540" cy="10" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="540" cy="10" r="2" style="stroke:none; fill:silver"/>
+	<circle cx="540" cy="10" r="1" style="stroke:none; fill:white"/>
+	<circle cx="540" cy="10" r="4.5" style="stroke:none; fill:transparent"><title>Mare Lamentorum - Bestways Burrow</title></circle>
+
+	<!-- Ultima Thule -->
+	<circle cx="570" cy="20" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="570" cy="20" r="2" style="stroke:none; fill:silver"/>
+	<circle cx="570" cy="20" r="1" style="stroke:none; fill:white"/>
+	<circle cx="570" cy="20" r="4.5" style="stroke:none; fill:transparent"><title>Ultima Thule - Reah Tahra</title></circle>
+
+	<!-- Ultima Thule -->
+	<circle cx="575" cy="10" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="575" cy="10" r="2" style="stroke:none; fill:silver"/>
+	<circle cx="575" cy="10" r="1" style="stroke:none; fill:white"/>
+	<circle cx="575" cy="10" r="4.5" style="stroke:none; fill:transparent"><title>Ultima Thule - Abode of the Ea</title></circle>
+
+	<!-- Ultima Thule -->
+	<circle cx="582" cy="15" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="582" cy="15" r="2" style="stroke:none; fill:silver"/>
+	<circle cx="582" cy="15" r="1" style="stroke:none; fill:white"/>
+	<circle cx="582" cy="15" r="4.5" style="stroke:none; fill:transparent"><title>Ultima Thule - Base Omicron</title></circle>
+
+
+	<!-- Elpis -->
+	<circle cx="500" cy="15" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="500" cy="15" r="2" style="stroke:none; fill:silver"/>
+	<circle cx="500" cy="15" r="1" style="stroke:none; fill:white"/>
+	<circle cx="500" cy="15" r="4.5" style="stroke:none; fill:transparent"><title>Elpis - Anagnorisis</title></circle>
+
+	<!-- Elpis -->
+	<circle cx="490" cy="20" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="490" cy="20" r="2" style="stroke:none; fill:silver"/>
+	<circle cx="490" cy="20" r="1" style="stroke:none; fill:white"/>
+	<circle cx="490" cy="20" r="4.5" style="stroke:none; fill:transparent"><title>Elpis - The Twelve Wonders</title></circle>
+
+	<!-- Elpis -->
+	<circle cx="492.5" cy="10.5" r="2.5" style="stroke:none; fill:black"/>
+	<circle cx="492.5" cy="10.5" r="2" style="stroke:none; fill:silver"/>
+	<circle cx="492.5" cy="10.5" r="1" style="stroke:none; fill:white"/>
+	<circle cx="492.5" cy="10.5" r="4.5" style="stroke:none; fill:transparent"><title>Elpis - Poieten Oikos</title></circle>
+
+	
+</svg>
